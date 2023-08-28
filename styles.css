@@ -1,0 +1,21 @@
+/* Estilo para los encabezados */
+h1 {
+    color: #ffcc00;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    }
+h2 {
+    color:rgb(249, 177, 82);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Estilo para los párrafos */
+p  {
+    color: #f59745;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+/* Estilo para el fondo */
+body{
+    background-color: antiquewhite;
+}
